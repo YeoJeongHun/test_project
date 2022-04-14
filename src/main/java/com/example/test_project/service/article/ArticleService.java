@@ -1,7 +1,7 @@
 package com.example.test_project.service.article;
 
-import com.example.test_project.domain.posts.Article;
-import com.example.test_project.domain.posts.ArticleRepository;
+import com.example.test_project.domain.article.Article;
+import com.example.test_project.domain.article.ArticleRepository;
 import com.example.test_project.web.dto.ArticleResponseDto;
 import com.example.test_project.web.dto.ArticleSaveRequestDto;
 import com.example.test_project.web.dto.ArticleUpdateRequestDto;

@@ -1,6 +1,6 @@
 package com.example.test_project.web.dto;
 
-import com.example.test_project.domain.posts.Article;
+import com.example.test_project.domain.article.Article;
 import lombok.Getter;
 
 @Getter
